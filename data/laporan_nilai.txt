@@ -1,0 +1,15 @@
+========== LAPORAN NILAI SISWA ==========
+Nama                 Nilai      Status
+---------------------------------------------
+Andi                 85.00      Tuntas
+Budi                 70.00      Belum Tuntas
+Citra                90.00      Tuntas
+Dewi                 80.00      Tuntas
+Eko                  65.00      Belum Tuntas
+
+========== STATISTIK KELAS ==========
+Rata-rata nilai : 78.00
+Nilai tertinggi : 90.00
+Nilai terendah  : 65.00
+Siswa tuntas    : 3
+Belum tuntas    : 2

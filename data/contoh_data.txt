@@ -1,0 +1,5 @@
+Andi,85
+Budi,70
+Citra,90
+Dewi,80
+Eko,65
